@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>dhakarele</artifactId>
-	<version>0.3</version>
+	<version>0.3-SNAPSHOT</version>
 	<scm>
 		<url>https://github.com/masumcse1/dhakarele</url>
 		<connection>scm:git:https://github.com/masumcse1/dhakarele.git</connection>
